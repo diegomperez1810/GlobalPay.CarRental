@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GlobalPay.CarRental.INF.REST.props" />
+</Project>

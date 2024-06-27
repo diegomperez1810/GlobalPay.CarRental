@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GlobalPay.CarRental.INF.REST.props" />
+</Project>

@@ -1,0 +1,3 @@
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\publish\GlobalPay.CarRental.DOM.dll
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\publish\GlobalPay.CarRental.DOM.deps.json
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\publish\GlobalPay.CarRental.DOM.pdb

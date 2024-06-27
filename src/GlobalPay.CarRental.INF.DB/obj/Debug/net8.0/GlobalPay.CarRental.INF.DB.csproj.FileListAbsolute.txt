@@ -1,0 +1,17 @@
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.INF.DB.deps.json
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.INF.DB.dll
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.INF.DB.pdb
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.APP.dll
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.DOM.dll
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.DOM.pdb
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\bin\Debug\net8.0\GlobalPay.CarRental.APP.pdb
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.csproj.AssemblyReference.cache
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.AssemblyInfoInputs.cache
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.AssemblyInfo.cs
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.csproj.CoreCompileInputs.cache
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPa.EBBEE5B4.Up2Date
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.dll
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\refint\GlobalPay.CarRental.INF.DB.dll
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\GlobalPay.CarRental.INF.DB.pdb
+D:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.INF.DB\obj\Debug\net8.0\ref\GlobalPay.CarRental.INF.DB.dll

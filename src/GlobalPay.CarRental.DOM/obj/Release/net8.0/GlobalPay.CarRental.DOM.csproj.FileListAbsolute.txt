@@ -1,0 +1,11 @@
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\GlobalPay.CarRental.DOM.deps.json
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\GlobalPay.CarRental.DOM.dll
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\bin\Release\net8.0\GlobalPay.CarRental.DOM.pdb
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.AssemblyInfoInputs.cache
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.AssemblyInfo.cs
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.csproj.CoreCompileInputs.cache
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.dll
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\refint\GlobalPay.CarRental.DOM.dll
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\GlobalPay.CarRental.DOM.pdb
+d:\Projectos\Entrevistas\GlobalPay.CarRental\src\GlobalPay.CarRental.DOM\obj\Release\net8.0\ref\GlobalPay.CarRental.DOM.dll
