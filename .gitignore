@@ -1,0 +1,234 @@
+# .NET Core/ASP.NET Core
+## Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Backup & report files from converting an old project file to a newer 
+# file format, or upgrading a project from an older .NET Framework
+# to .NET Core
+UpgradeLog*.htm
+UpgradeLog*.xml
+UpgradeLog*.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+.idea_modules/
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+.idea_modules/
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core Data Protection keys
+*.xml
+
+# JetBrains Rider
+.idea/
+
+# Mono Auto Generated
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+.idea_modules/
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core Data Protection keys
+*.xml
+
+# JetBrains Rider
+.idea/
+
+# Mono Auto Generated
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+.idea_modules/
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+.vscode-test/
+.idea/
+.idea_modules/
+
+# Mono Auto Generated
+mono_crash.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# MSTest test Results
+TestResults
+
+# Build Results of an online build process
+build
+
+# NCrunch
+*_g.cs
+.*crunch*.local.xml
+nCrunchTemp
+
+# Web workbench (sass)
+.sass-cache/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+
+# Others
+.htaccess
+.codecoverage
+.deploy
+.deps.json
+.runtimeconfig.dev.json
+.runtimeconfig.json
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+log/
+logs/
+env/
+.env

@@ -46,7 +46,9 @@ public class CarHireService(ICarRentalRepository repository, ILogger<CarService>
         return await ResolveOperationAsync(async () => 
         {
             var carHire = await _repository.Get<CarHire>()
+                                           .Include(carh => carh.Fee)
                                            .FirstAsync(carh => carh.Id == guid);
+                                           
             carHire.ReturnCar(returnDate);
 
             await _repository.SaveChangeAsync();

@@ -6,7 +6,7 @@ public class CarHire
     public Guid FeeId { get; private set; }
     public Guid CarId { get; private set; }
 
-    public DateTime RentalDate { get; private set; } = DateTime.UtcNow.Date;
+    public DateTime RentalDate { get; private set; } = DateTime.Now.Date;
     public DateTime ScheduledReturnDate { get; private set; }
     public DateTime? ReturnDate { get; private set; }
     public double Price { get; private set; }
@@ -20,7 +20,7 @@ public class CarHire
     {
         FeeId = fee.Id;
         CarId = car.Id;
-        ScheduledReturnDate = scheduledReturnDate.Date.ToUniversalTime();
+        ScheduledReturnDate = scheduledReturnDate.Date;
         Fee = fee;
         Car = car;
     }
@@ -35,8 +35,8 @@ public class CarHire
 
     public CarHire ReturnCar(DateTime returnDate)
     {
-        var days = (returnDate.ToUniversalTime().Date - ScheduledReturnDate).Days;
-        ReturnDate = returnDate.ToUniversalTime();
+        var days = (returnDate.Date - ScheduledReturnDate).Days;
+        ReturnDate = returnDate.Date;
 
         if(days > 0)
         {
